@@ -9,10 +9,12 @@ int main()
     cout << "Enter your number (must be less than 1000): ";
     cin >> number;
     
-    if(number >=1 && number < 1000)
+    if(number >=1 && number <= 1000)
 {
-        
-    
+    while (number == 1000){
+        cout << "M";
+        number -= 1000;
+    }
     while (number >=900) {
             cout <<"CM";
             number -= 900;
