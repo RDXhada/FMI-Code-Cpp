@@ -387,7 +387,7 @@ int main()
 //-------------------------------------------
 
 
-//zadacha 4 - Dzhem Shenolov 8MI0700009
+//zadacha 4 - Dzhem Shenolov 
 
 
 
