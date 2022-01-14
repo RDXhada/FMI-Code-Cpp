@@ -1,5 +1,5 @@
 
-//zadacha 1 - Dzhem Shenolov 8MI0700009
+//zadacha 1 - Dzhem Shenolov 
 
 
 #include <iostream>
@@ -168,7 +168,7 @@ int main(){
 
 //-------------------------------------------exercise separation
 
-//zadacha 2 - Dzhem Shenolov 8MI0700009
+//zadacha 2 - Dzhem Shenolov 
 
 #include <iostream>
 using namespace std;
@@ -257,7 +257,7 @@ int main()
 
 
 
-//zadacha 3 - Dzhem Shenolov 8MI0700009
+//zadacha 3 - Dzhem Shenolov 
 
 
 #include <iostream>
